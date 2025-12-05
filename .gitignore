@@ -116,3 +116,5 @@ developer.properties
 
 # Claude
 .claude/settings.local.json
+config.bat
+node_modules
